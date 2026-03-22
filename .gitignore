@@ -5,7 +5,6 @@ __pycache__/
 *.pyc
 
 # IDE
-.vscode/
 .idea/
 
 # OS
@@ -18,3 +17,6 @@ Thumbs.db
 # Model artifacts (regenerable)
 # models/*.pkl  # uncomment if you don't want models in repo
 # shap_cache/*.pkl  # uncomment if you don't want SHAP cache in repo
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
